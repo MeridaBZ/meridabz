@@ -1,12 +1,12 @@
 ![Mariana_Blanez_banner](https://github.com/MeridaBZ/meridabz/blob/39d868fa97d531ba4edb9a773a4f86af45654d74/Mariana%20Blanez.png)
 
 # Hi there👋, I'm Meri Blanez
-##### _A passionate about web development, and currently learning about the world of UX/UI design._
+### _A passionate about web development, and currently learning about the world of UX/UI design._
 
  <table >
             <tr>
                 <td>
-                    <p>- 🌱 I’m currently learning <b>UX/UI Design</b></p>
+                    <p>- 🌱 I’m currently learning <b>Web development FULLSTACK & UX/UI Design</b></p>
                     <p>- 💬 Ask me about <b>Anything in my stack</b></p>
                     <p>- 📫 How to reach me: <b><a href=marianablanez@gmail.com alt=email>marianablanez@gmail.com</a></b></p>
                     <p>- ⚡ Fun fact: <b>Chocolate 🍫 and mate 🧉 lover</b></p>
