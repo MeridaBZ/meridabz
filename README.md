@@ -6,7 +6,7 @@
  <table >
             <tr>
                 <td>
-                    <p>- 🌱 I’m currently <b>Backend Developer</b> in @<a href=https://nohbek.io/ target=_blank alt=web>NOHBEK</a> 💜</p>
+                    <p>- 🌱 I’m currently <b>Blockchain Backend Developer</b> in @<a href=https://nohbek.io/ target=_blank alt=web>NOHBEK</a> 💜</p>
                     <p>- 💬 Ask me about <b>Anything in my stack</b></p>
                     <p>- 📫 How to reach me: <b><a href=marianablanez@gmail.com alt=email>marianablanez@gmail.com</a></b></p>
                     <p>- ⚡ Fun fact: <b>Chocolate 🍫 and mate 🧉 lover</b></p>
